@@ -19,6 +19,6 @@ These modifications cause the generated images to be invalid as per the current 
 * 注意，源文件将会被覆盖
 
 ## 出处和参考（版权归作者所有）
-http://www.axelbrz.com.ar/?mod=iphone-png-images-normalizer
-https://gist.github.com/urielka/3609051
+* http://www.axelbrz.com.ar/?mod=iphone-png-images-normalizer
+* https://gist.github.com/urielka/3609051
 
